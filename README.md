@@ -28,3 +28,8 @@ $ source devel/setup.bash
 ## Test the Velodyne pointcloud
 I am using the Udacity Challenge 3 dataset. 
 https://medium.com/udacity/challenge-3-image-based-localization-5d9cadcff9e7.
+
+<p align="center">
+ <img src="./cal_loop.png" width="800">
+</p>
+
