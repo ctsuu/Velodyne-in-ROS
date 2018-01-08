@@ -44,6 +44,7 @@ $ rosbag play cal_loop.bag
 In new terminal,
 ```
 $ rostopic list
+
 /velodyne_packets
 ```
 
